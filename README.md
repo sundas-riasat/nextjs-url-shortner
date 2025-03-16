@@ -28,7 +28,7 @@ Follow these steps to run the project locally:
 ### 1️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/nextjs-url-shortener.git
+git clone https://github.com/sundas-riasat/nextjs-url-shortner
 cd nextjs-url-shortener
 ```
 
